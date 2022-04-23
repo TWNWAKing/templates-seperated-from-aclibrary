@@ -10,7 +10,7 @@ The [expander.py](https://github.com/atcoder/ac-library/blob/db0826383c5a6c909f8
 
 First I use [expander.py](https://github.com/atcoder/ac-library/blob/db0826383c5a6c909f8eac58e64a45aadd4867e2/expander.py) to get the desired template.
 
-Then I use [Remove Comments](https://marketplace.visualstudio.com/items?itemName=plibither8.remove-comments) extension in VS Code to remove comments and [a small](https://sunnylife.io/en/how-to-remove-empty-lines-in-visual-studio-code/) trick to remove empty lines.
+Then I use [Remove Comments](https://marketplace.visualstudio.com/items?itemName=plibither8.remove-comments) extension in VS Code to remove comments and [a small trick ](https://sunnylife.io/en/how-to-remove-empty-lines-in-visual-studio-code/) to remove empty lines.
 
 However, some of the empty lines are indomitable so I have to remove them manually.
 
