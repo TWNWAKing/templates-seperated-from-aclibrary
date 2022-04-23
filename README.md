@@ -18,4 +18,7 @@ However, some of the empty lines are indomitable so I have to remove them manual
 
 Atcoder has all rights of these templates. Many thanks to them for this awesome library.
 
-**If there's any bug/error in the code due to my adaptation, please tell me !**(maybe I deleted some part of code accidently or something like that)
+
+I choose the same license as the original library for this repo.
+
+**If there's any bug/error in the code due to my "cleaning", please tell me !**(maybe I deleted some part of code accidently or something like that)
